@@ -42,3 +42,60 @@ Users must be able to download their document at anytime and independant of any 
 |-------|-----------------|
 | User  | Uses the feature to add files and track tasks so they can see what needs to be done to finish approval of devices | 
 | Another User | More file tracking and downloading |
+
+## 2. Constraints
+DocManager+ shall be:
+* Platform independant and run on any browser
+* Easy to use
+* Responsive and quick
+
+### 2.1 Technical Constraints
+| Constraint | Background/Motivation |
+|------------|-----------------------|
+| API backend implementation in Lumen | The backend of this feature must be developed in Lumen. The api interface should be language and framework agnostic.
+| DB should use MySQL & Redis | For this feature to be usable on multiple devices it should utilize MySQL as the DB. Redis should be considered as session management to help speed up the front end.
+| Front end implementation in Nuxt/Vue.js | The front end of this feature should be developed in Nuxt/Vue.js and consume the api backend, utilizing current company security standards. |
+| AWS will be used as document storage | To keep files secure, quickly retreivable and organized. The feature should utilize AWS and S3 storage to store documents and retreive them. |
+| CI/CD | Since the main product is already using github, this feature should use github actions to pipeline pushes from the `main` branch into production. |
+| Unit Testing | Unit tests must be included in both backend and front end development
+
+### 2.2 Organizational Constraints
+| Constraint | Background/Motivation |
+|------------|-----------------------|
+| Teams         | Team A will be working on the backend, while Team B will be working on the front end. |
+| Time Schedule | Team A is currently finishing up a feature for Brad. Team B is ready to start implementing the basic design |
+| Design        | UI is currently in design |
+| Testing       | Daniel has learned all about front end linting and testing so this should not slow the team down |
+| Version Control & Code management | A private git repo will keep a complete history and track all code in this feature |
+
+
+## 3. Context
+
+## 4. Solution Strategy
+
+## 5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
