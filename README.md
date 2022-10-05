@@ -74,23 +74,11 @@ DocManager+ shall be:
 ## 4. Solution Strategy
 
 ## 5. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 6. 
+## 7. 
+## 8. 
+## 9. 
+## 10. 
 
 
 
