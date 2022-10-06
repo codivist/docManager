@@ -1,4 +1,5 @@
 # DocManager+ Documentation
+__*This is an example of documentation that "could" have been created from the beginning of the project planning*__
 
 ## 1. Goals of this Documentation
 DocManager+ is a feature request that will allow users to:
