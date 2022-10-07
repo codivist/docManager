@@ -19,3 +19,5 @@ At this point the existing Kubernetes (K8s) will automagically recycle the corre
 
 #### Notes
 Most of this process is already set up, but setting Mag:5 for any issues that might come up from this new feature
+
+[Back to Overview](../readme.md)
