@@ -1,6 +1,13 @@
 # DocManager+ Software Architech Feature example
 
+The product team has identified the next priority for a document and task manager. The following is what we know so far:
+* The system shall allow a user to add documents
+* The system shall allow a user to add tasks to a document
+* The system shall allow a user to download a document
+* The system shall version documents
+
 ## Architecture Docs
+
 
 1. [Questions](questions.md)
 
