@@ -2,6 +2,8 @@
 
 ## CI/CD setup for new feature
 
+### Magnitude 5
+
 #### Description
 As per RimSys CI/CD standards, this new feature must automagically use the pipelines for delivering updates from github to Dev, Staging and Production servers.
 
@@ -16,3 +18,4 @@ CI/CD processes keep our company ahead of competitors and our users happy.
 At this point the existing Kubernetes (K8s) will automagically recycle the correct server and our new code will be live and ready for testing or production.
 
 #### Notes
+Most of this process is already set up, but setting Mag:5 for any issues that might come up from this new feature

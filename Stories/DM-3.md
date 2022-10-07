@@ -2,6 +2,8 @@
 
 ## Api End Point for Downloading a File
 
+### Magnitude 8
+
 #### Description
 In order for DocManager+ to download files, a new API endpoint will need to be implemented into our system.
 

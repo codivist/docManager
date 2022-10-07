@@ -2,6 +2,8 @@
 
 ## S3 Bucket Creation
 
+### Magnitude 3
+
 #### Description
 As per RimSys standards, all documents must be stored in S3 buckets named for each customer. These buckets must be set up dynamically if the user is uploading their first file.
 

@@ -2,6 +2,8 @@
 
 ## Database Migration via Lumen/Laravel
 
+### Magnitude 5
+
 #### Description
 Database changes will need to be made for the DocManager+ feature. Our DevOps team requires that the migration changes be fully tested, and run on a test server before running in production. 
 
