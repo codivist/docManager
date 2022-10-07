@@ -15,7 +15,7 @@ DB migrations will be created in the Laravel format
 ```
 php artisan make:migration create_files_table
 ```
-etc. for each additional table listed in the Table Model diagram
+etc. for each additional table listed in the [Table Model diagram](../tables.md)
 
 
 Each migration MUST be able to fully roll back to the previous state before it was run.
