@@ -1,4 +1,4 @@
-### DocManager+ Assumptions & Dependancies
+### DocManager+ Assumptions & Dependencies
 
 #### Tech Assumptions
 In order to facilitate an immediate start on this project we will be assuming the following items:
@@ -14,7 +14,7 @@ In order to facilitate an immediate start on this project we will be assuming th
 1. Unit tests must be used to make sure points of the system are not breaking when coding or re-factoring
 
 
-#### Dependancies
+#### Dependencies
 * Database migrations will need to be built in with proper roll-backs in place
 * Vue Components for file manipulation will need to be updated
 * The backend team will need 2 full sprints without interuption
