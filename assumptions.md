@@ -1,6 +1,6 @@
-### DocManager+ Assumtions & Dependancies
+### DocManager+ Assumptions & Dependancies
 
-#### Tech Assumtions
+#### Tech Assumptions
 In order to facilitate an immediate start on this project we will be assuming the following items:
 1. We will use existing tech & infrastructure
     1. PHP/Laravel, Nuxt/Vue, MySQL, and AWS/S3
