@@ -1,0 +1,23 @@
+@startgantt
+Project starts 2022-09-01
+saturday are closed
+sunday are closed
+-- Design Team --
+[Design] lasts 5 days and is colored in LightBlue
+[UI testing] lasts 6 days and is colored in LightBlue
+' [UI testing] starts at [CSS/Designs]'s end and lasts 4 days
+
+-- FE Team --
+[Install Nuxt] lasts 5 days
+[CSS/Designs] starts at [Install Nuxt]'s end and lasts 10 days
+
+-- BE Team --
+[API Endpoints] lasts 10 days
+[MySQL] lasts 5 days
+' [Prototype completed] happens 2022-09-10
+[Testing] lasts 12 days
+[Testing] starts at [API Endpoints]'s end
+
+[CSS/Designs] -> [UI testing]
+
+@endgantt

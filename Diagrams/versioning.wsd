@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+actor "user  " as fc
+rectangle DocManager+ {
+  usecase "Upload document" as UC1
+  usecase "Add task to document" as UC2
+  usecase "Download document" as UC3
+  usecase "Version documents" as UC4
+}
+fc --> UC1
+fc --> UC2
+fc --> UC3
+UC1 --> UC4
+UC2 --> UC4
+@enduml
